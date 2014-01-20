@@ -29,5 +29,5 @@ Please feel free to use a different markup language if you do not plan to run
 
 Link to Heroku: http://guarded-headland-3525.herokuapp.com/
 
-I had some issues with downloading ruby from rubyinstaller, then I realized I Ruby was already on my system. Most of the issues
+I had some issues with downloading ruby from rubyinstaller, then I realized Ruby was already on my system. Most of the issues
 were solved by using the sudo command with the commands in the powerpoint. 
